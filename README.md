@@ -2,11 +2,11 @@
 
 <p align="center">Estudos de caso e introdução à biblioteca</p>
 
-# ABOUT
+# SOBRE
 
 Este repositório agrupa a minha introdução a biblioteca para visualização de dados através de gráfico elaborados com Python, além de alguns estudos de casos e as fontes de onde os dados foram retirados.
 
-## TOOLS
+## FERRAMENTAS
 
 <div align="center">
   <figure>
